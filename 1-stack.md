@@ -29,9 +29,10 @@ The adding or inserting of an item into a stack is called **push** and in Python
 - Add to stack - stack.append(item)
 - Remove from stack - stack.pop()
 
-See the below example  to better understand how it all works together.
+See the below example to better understand how it all works together.
 
 ## Example
+In this example, we will cook 3 different type of pancakes and then the kids eat them. We will show which pancake the kids ate. 
 
 ```python
 # This is how you decalre an empty stack
