@@ -36,7 +36,7 @@ What would the height of subtree 75 be?
 
 - Subtree Root Node 75 - Height Level 1
 - Parent Nodes 5 amd 88 - Height Level 2
-- Parent/Child Nodes 14, 26 and 12 - Height Level 3
+- Child Nodes 14, 26 and 12 - Height Level 3
 
 There are algorithms that can be used to identify if a tree is balanced or not and then correct it so it becomes balanced. The one that I will explain is AVL ((Adelson-Velskii and Landis). Subtree 20, is still balanced because children 6 and 51 are only hieght 2, but if we add 77 as a child to node 6, what would happen? Correct, it becomes unbalanced because its height would be 3. To correct this we would have to move it to node 71. 
 
