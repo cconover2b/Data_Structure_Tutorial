@@ -9,12 +9,12 @@ A stack is a list that follows the **Last-In/First-Out (LIFO) or First-In/Last-O
 
 Here is s list of the functions that would be used to accomplish the desired operation.
 
-|   Stack Operation   |      Description      | Python Code |
-| :-----: | :------------: || :------------: |
-| empty() | If the stack is empty | if len(my_stack) == 0: |
-|  size()   |     The size of the stack     | length = len(my_stack) |
-|  push()  |     Inserts an item into a stack     | my_stack.append(value) |
-|  pop()  |     Deletes an item into a stack      | value = my_stack.pop() |
+| Stack Operation | Description                   | Python Code            |
+| :-------------: | :---------------------------: | :--------------------: |
+| empty()         | If the stack is empty         | if len(my_stack) == 0: |
+| size()          | The size of the stack         | length = len(my_stack) |
+| push()          | Inserts an item into a stack  | my_stack.append(value) |
+| pop()           | Deletes an item into a stack  | value = my_stack.pop() |
 
 ## How to implement stack (List)
 
